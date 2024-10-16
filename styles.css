@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('fonts/ZT Chintzy Black.ttf') format('truetype');
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'CustomFont', sans-serif;
+}
+
+
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.icons {
+    text-align: center;
+    padding: 50px;
+}
+
+.service {
+    display: inline-block;
+    margin: 20px;
+}
+
+.service i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.service p {
+    font-size: 18px;
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'CustomFont', sans-serif;
+}
